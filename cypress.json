@@ -1,0 +1,13 @@
+{
+  "watchForFileChanges": true, 
+  "viewportWidth": 1000, 
+  "viewportHeight": 660,
+  "waitForAnimations": true,
+  "animationDistanceThreshold": 5,
+  "defaultCommandTimeout": 4000, 
+  "execTimeout": 60000,
+  "requestTimeout": 5000,
+  "responseTimeout": 30000,
+  "pageLoadTimeout": 60000,
+  "video": true 
+}

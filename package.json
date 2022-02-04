@@ -1,0 +1,17 @@
+{
+  "name": "cypress-practice",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "author": "Alex Liu",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.3.1",
+    "cypress-xpath": "^1.6.2",
+    "prettier": "^2.5.1"
+  }
+}
